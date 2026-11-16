@@ -1,3 +1,3 @@
 # plusc.loc.cc
 
-Personal landing page for +C (plusc), served by GitHub Pages.
+Personal landing page for plusc, served by GitHub Pages.
